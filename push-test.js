@@ -8,10 +8,10 @@ const vapid = {
 webpush.setVapidDetails('mailto:phelipe.maia@first-utility.com', vapid.publicKey, vapid.privateKey);
 
 const pushSubscription = {
-    endpoint: 'https://fcm.googleapis.com/fcm/send/cg0B-A5uXKc:APA91bHfgiEaraLyMI3irjMnmXkostkp1raRozUWkZ5lOMIIw6rZFckLl0MXjIl_ram3tWVqntRQKxv7iGy8ugTvSdbei1PSkeWxp_cnOdv9O_7Q2tc8CV38EtD3tVyv-_Rir3YL15_4',
+    endpoint: 'https://fcm.googleapis.com/fcm/send/eSqXsc_mD14:APA91bFe7ZfvRgN0hRSkNiDFtFyrNu5VzM43aos0W3VibwF91NXMU_Vcx1thhGRIxfrQbY032PA1rERApIGRB3Umz71zsAhF0_ROFP67OfpYyH2lX9Lka6Gei2j467CqfkJv7SmojwuT',
     keys: {
-        auth: 'pUhK__bBxcRR8OkTaZjGIA==',
-        p256dh: 'BIMuD5LBgJiMTabrrESpN--pz2QirxOPx80ruvs6ILsUsrPl_otl95RNA4nJg905UTvZcfc9cWJSk3ip9DLNS88='
+        auth: 'r-PedCiA2SbZ85DoKT7PNQ==',
+        p256dh: 'BBwIAemhwsGaM7_CrNYVw1i2fWeKl0wped6xJOxrEp-ZT8NztPThjN_UTlaxWoGxvU_hZr8KfqqiIcv1tabpf2Q='
     }
 };
 

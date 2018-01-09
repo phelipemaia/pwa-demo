@@ -12,7 +12,7 @@ if (navigator.serviceWorker) {
         return outputArray;
     };
 
-    navigator.serviceWorker.register('/sw.js').then(function (registration) {
+    navigator.serviceWorker.register('./sw.js').then(function (registration) {
         console.log('Service Worker registered');
         var pubKey = 'BMoSrKt5RZuJlmHXBsZRB7MVPZH1tU5S15Ps3nBobEhzkGdvh9NK4xP-befi118PtbRCjxaBwl8mDqx-C716jIE';
 
