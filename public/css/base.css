@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lato', sans-serif;
+    padding: 0 1rem;
+    text-align: center;
+}
+button {
+    padding: 0.5rem 3rem;
+    font-size: 2rem;
+    background: #823a8c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+#unsubscribe button {
+    background: #EB3F2F;
+}
+.hidden {
+    display: none;
+}

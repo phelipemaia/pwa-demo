@@ -1,8 +1,0 @@
-{
-  "name": "PWA Demo",
-  "short-name": "PWA",
-  "start_url": "/pwa-demo/index.html",
-  "display": "standalone",
-  "background_color": "#823a8c",
-  "description": "Progressive Web App - Test"
-}
